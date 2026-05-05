@@ -3,3 +3,4 @@ agenda
 added 5/5/26 15:03 new note
 added 5/5/26 15:05 on github
 added 5/5/26 15:08 on local pi 4
+added on git hub
